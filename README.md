@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C, Python, Django, JavaScript, and SQL.
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaracrf1&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaracald&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div> 
