@@ -1,7 +1,7 @@
 ### Ana Clara
 
 - 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning Python, Django, JavaScript, and SQL.
+- 🌱 I’m currently learning C, Python, Django, JavaScript, and SQL.
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaracrf1&layout=compact&langs_count=16&theme=tokyonight"/>
